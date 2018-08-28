@@ -1,0 +1,8 @@
+.footer {
+  background:orange;
+  height: 100px;
+  position: relative;
+  color: white;
+  overflow: auto;
+}
+

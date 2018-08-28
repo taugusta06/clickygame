@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/brain.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/catdog.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/deedee.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/donny.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/kingbob.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/monsters.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/numbah4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/otto.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/rocko.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/skeeter.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/stimpy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/tommy.jpg",
+    "clicked": false
+  }
+]
